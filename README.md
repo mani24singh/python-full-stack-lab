@@ -15,9 +15,9 @@ Welcome to my **Python Full Stack Laboratory**! This repository documents my str
 
 ## 🗂️ Repository Structure
 📦 python-full-stack-lab
-├── 📁 1-Python Basics
-├── 📁 2-Control Flow
-├── 📁 3-Data Structures
+- 📁 1-Python Basics
+- 📁 2-Control Flow
+- 📁 3-Data Structures
 ├── 📁 4-Functions
 ├── 📁 5-Modules
 ├── 📁 6-File Handling
