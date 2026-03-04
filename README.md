@@ -18,23 +18,23 @@ Welcome to my **Python Full Stack Laboratory**! This repository documents my str
 - 📁 1-Python Basics
 - 📁 2-Control Flow
 - 📁 3-Data Structures
-├── 📁 4-Functions
-├── 📁 5-Modules
-├── 📁 6-File Handling
-├── 📁 7-Exception Handling
-├── 📁 8-Class And Objects
-├── 📁 9-Advance Python Concepts
-├── 📁 10-Data Analysis with Python
-├── 📁 11-Working With Databases
-├── 📁 12-Logging in Python
-├── 📁 13-Flask
-├── 📁 14-Streamlit
-├── 📁 15-Memory Management
-├── 📁 16-Multithreading and Multiprocessing
-├── 📁 17-Docker
-├── 📁 18-Git and Github
-├── 📁 19-SQL
-├── 📁 20-Interviews
+- 📁 4-Functions
+- 📁 5-Modules
+- 📁 6-File Handling
+- 📁 7-Exception Handling
+- 📁 8-Class And Objects
+- 📁 9-Advance Python Concepts
+- 📁 10-Data Analysis with Python
+- 📁 11-Working With Databases
+- 📁 12-Logging in Python
+- 📁 13-Flask
+- 📁 14-Streamlit
+- 📁 15-Memory Management
+- 📁 16-Multithreading and Multiprocessing
+- 📁 17-Docker
+- 📁 18-Git and Github
+- 📁 19-SQL
+- 📁 20-Interviews
 
 
 ## 🎯 Learning Path
@@ -82,34 +82,20 @@ cd "1-Python Basics"  # Start from the beginning
 
 3. Follow along sequentially or jump to topics you need
 
-💻 Technologies Covered
-Core Python: Python 3.x, OOP, Advanced Concepts
 
-Data Stack: Pandas, NumPy, Matplotlib
-
-Web Frameworks: Flask, Streamlit
-
-Databases: SQL, Database Connectivity
-
-DevOps Tools: Docker, Git, GitHub
-
-System Programming: Multithreading, Multiprocessing, Memory Management
-
-📈 Progress Tracking
-✅ Modules 1-8: Complete
-
-🟡 Modules 9-20: In Progress
-
-⏳ Interview Prep: Coming Soon
+## 💻 Technologies Covered
+- Core Python: Python 3.x, OOP, Advanced Concepts
+- Data Stack: Pandas, NumPy, Matplotlib
+- Web Frameworks: Flask, Streamlit
+- Databases: SQL, Database Connectivity
+- DevOps Tools: Docker, Git, GitHub
+- System Programming: Multithreading, Multiprocessing, Memory Management
 
 🤝 Contributing
 While this is my personal learning repository, suggestions and improvements are welcome! Feel free to:
-
-Open issues for questions
-
-Suggest better solutions
-
-Share additional resources
+- Open issues for questions
+- Suggest better solutions
+- Share additional resources
 
 📝 License
 This project is licensed under the MIT License - see the LICENSE file for details.
@@ -119,7 +105,4 @@ If you find this repository helpful, give it a star! ⭐
 
 <div align="center">
 Happy Coding! Keep Learning, Keep Building! 🚀
-
-"The only way to learn a new programming language is by writing programs in it." - Dennis Ritchie
-
-</div> ```
+</div> 
