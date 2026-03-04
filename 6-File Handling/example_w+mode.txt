@@ -1,0 +1,2 @@
+This statement is written to check w+ mode
+This is a new line

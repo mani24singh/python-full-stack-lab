@@ -1,0 +1,4 @@
+Hello world How are you?
+I am good
+Mani is my name
+Welcome to course of python
